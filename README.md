@@ -2,7 +2,7 @@
 
 
 ### About me
-Hey! I'm a programming student and future Scrum Master 🚀. I love teamwork because there’s always something new to learn. I believe in good programming practices, from clean code to an agile workflow. Right now, I'm diving into Git, GitHub, and design patterns to level up each project, and I’m fascinated by exploring new technologies with AI 🤖. Oh, and I'm a fan of cats and plants! 🐱🌿
+Hey! I'm Anthony, a programming student and future Scrum Master 🚀. I love teamwork because there's always something new to learn. As I progress in my career, I’m learning to collaborate effectively and strengthen my skills to implement optimal, high-quality solutions. I believe in the value of good programming practices, from clean code to an agile workflow. Currently, I'm diving deeper into Git, GitHub, and design patterns to enhance each project, and I'm passionate about exploring new technologies with AI 🤖. Oh, and I'm a fan of cats and plants! 🐱🌿
 <!--
 **QuiliDev/QuiliDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
