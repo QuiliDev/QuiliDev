@@ -3,6 +3,19 @@
 
 ### About me
 Hey! I'm Anthony, a programming student and future Scrum Master 🚀. I love teamwork because there's always something new to learn. As I progress in my career, I’m learning to collaborate effectively and strengthen my skills to implement optimal, high-quality solutions. I believe in the value of good programming practices, from clean code to an agile workflow. Currently, I'm diving deeper into Git, GitHub, and design patterns to enhance each project, and I'm passionate about exploring new technologies with AI 🤖. Oh, and I'm a fan of cats and plants! 🐱🌿
+## Projects in Progress
+```js
+AplicacionVoleibol: "[■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ □□□□□ □□□□□ □□□□□] 70%"
+other_project:      "[■■■■■ ■■■■■ ■□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□] 21%"
+```
+
+## Stats
+![](https://komarev.com/ghpvc/?username=QuiliDev&color=red&style=for-the-badge)
+
+[![](https://github-readme-stats.vercel.app/api?username=QuiliDev&show_icons=true&show_icons=true&title_color=7433FF&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40&hide_border=true)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuiliDev&title_color=7433FF&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40&hide_border=true&layout=compact&hide=batchfile,c#)]()
+
+
 <!--
 **QuiliDev/QuiliDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
