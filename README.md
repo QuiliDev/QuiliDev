@@ -8,12 +8,26 @@ Hey! I'm Anthony, a programming student and future Scrum Master 🚀. I love tea
 AplicacionVoleibol: "[■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ □□□□□ □□□□□ □□□□□] 70%"
 other_project:      "[■■■■■ ■■■■■ ■□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□] 21%"
 ```
+## Tecnologías aprendidas👨🏻‍💻
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img height="65px" src="https://skillicons.dev/icons?i=cpp,java,py,css,html,git,github,eclipse,vscode,bash,ai,ps&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
 
 ## Stats
 ![](https://komarev.com/ghpvc/?username=QuiliDev&color=red&style=for-the-badge)
 
-[![](https://github-readme-stats.vercel.app/api?username=QuiliDev&show_icons=true&show_icons=true&title_color=7433FF&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40&hide_border=true)]()
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuiliDev&title_color=7433FF&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40&hide_border=true&layout=compact&hide=batchfile,c#)]()
+<a href="https://github.com/QuiliDev">
+<img height=200 align="center" alt="QuiliDev's stats" src="https://github-readme-stats.vercel.app/api?username=QuiliDev&show_icons=true&show_icons=true&title_color=7433FF&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40&hide_border=true" />
+</a>
+<a href="https://github.com/QuiliDev">
+<img height=150 align="top" alt="QuiliDev's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuiliDev&title_color=7433FF&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40&hide_border=true&layout=compact&hide=batchfile,c#" />
+</a>
+
 
 
 <!--
