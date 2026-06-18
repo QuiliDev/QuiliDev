@@ -5,10 +5,10 @@ on:
   schedule:
     - cron: "0 0 * * *" 
   
-  # Permite ejecutar el trabajo manualmente desde la pestaña Actions
+  # Permite ejecutar el trabajo manualmente
   workflow_dispatch:
   
-  # Se ejecuta cada vez que haces un push a main o master
+  # Se ejecuta en cada push a main/master
   push:
     branches:
     - main
@@ -22,16 +22,16 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Genera el juego de la serpiente a partir de tu gráfico de contribuciones
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: QuiliDev
+          # Aquí añadimos la paleta codeberg-light
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-codeberg-light.svg?palette=codeberg-light
           
-      # Hace un push de los archivos generados a la rama "output"
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
